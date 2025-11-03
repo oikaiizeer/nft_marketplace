@@ -1,5 +1,5 @@
 # NFT Marketplace Project
-
+class Main { public static void main(String[] args) { System.out.println("Forked Java!"); } }
 This repository contains a complete NFT Marketplace project, including smart contracts, backend services, and a frontend application. The project is structured into multiple directories for better organization and modularity.
 
 ## Project Structure
